@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- edited with XMLSpy v2020 (http://www.altova.com) by Altova XMLSpy 2019 Professional XML Editor - Release 3, Installed for 950 users (with SMP from 2019-10-01 to 2020-09-30) (VOLVO INFORMATION TECH AB) -->
+<ProductUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.volvo.com/vtc/vpps/1_0">
+	<ProductUnitDataSource>
+		<SourceSystem>SPRINT</SourceSystem>
+		<ComposingDateTime>20190307175933</ComposingDateTime>
+	</ProductUnitDataSource>
+	<ProductUnitIdentifyer>
+		<Key1>782100</Key1>
+		<Key2>B</Key2>
+		<ProductUnitType>Chassi</ProductUnitType>
+	</ProductUnitIdentifyer>
+	<ProductUnitPrintItem>
+		<PrintItemName>23257994</PrintItemName>
+	</ProductUnitPrintItem>
+	<ProductUnitTerm>
+		<TermName>CertNr</TermName>
+		<ItemCount>4</ItemCount>
+		<ProductUnitTermItem>
+			<TermItemName>Country</TermItemName>
+			<ItemSequence>1</ItemSequence>
+			<Data>E1</Data>
+		</ProductUnitTermItem>
+		<ProductUnitTermItem>
+			<TermItemName>CertificationSubject</TermItemName>
+			<ItemSequence>2</ItemSequence>
+			<Data>14</Data>
+		</ProductUnitTermItem>
+		<ProductUnitTermItem>
+			<TermItemName>SubjectAdditional</TermItemName>
+			<ItemSequence>3</ItemSequence>
+			<Data>R</Data>
+		</ProductUnitTermItem>
+		<ProductUnitTermItem>
+			<TermItemName>CertificationNumber</TermItemName>
+			<ItemSequence>4</ItemSequence>
+			<Data>070665</Data>
+		</ProductUnitTermItem>
+	</ProductUnitTerm>
+	
+</ProductUnit>
